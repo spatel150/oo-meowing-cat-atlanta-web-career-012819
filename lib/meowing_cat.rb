@@ -2,6 +2,6 @@
 class Cat 
   
   maru = Cat.new
-  attr_accessor = :name
+  attr_accessor :name
   
 end
